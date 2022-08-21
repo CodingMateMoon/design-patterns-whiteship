@@ -1,4 +1,4 @@
-package creational_patterns.factory_method.before;
+package creational_patterns.factory_method._01_before;
 
 public class ShipFactory {
 
